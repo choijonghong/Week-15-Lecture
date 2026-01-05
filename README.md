@@ -61,6 +61,6 @@ Week-15-Lecture
 
 ### 참고 영상
 
-* [유튜브 영상해설 GAN+신박AI](https://www.youtube.com/watch?v=LXUvQUoI1xk)
-* [유튜브 영상해설 GAN+동빈나](https://www.youtube.com/watch?v=AVvlDmhHgC4&t=2028s)
+* [유튜브 영상해설  Zero-Shot Text-to-Image Generation](https://www.youtube.com/watch?v=jZRSRbOx1uA&t=40s)
+
 

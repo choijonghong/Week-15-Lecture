@@ -61,6 +61,7 @@ Week-15-Lecture
 
 ### 참고 영상
 
-* [유튜브 영상해설  Zero-Shot Text-to-Image Generation](https://www.youtube.com/watch?v=jZRSRbOx1uA&t=40s)
+* [유튜브 영상해설  Zero-Shot Text-to-Image Generation 1](https://www.youtube.com/watch?v=jZRSRbOx1uA&t=40s)
+* [유튜브 영상해설  Zero-Shot Text-to-Image Generation 2](https://www.youtube.com/watch?v=oENCNi4JxPY)
 
 
